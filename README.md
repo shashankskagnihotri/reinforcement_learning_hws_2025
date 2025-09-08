@@ -1,4 +1,4 @@
-# Reinforcement Learning [VÜ] (HWS 2024) Exercises
+# Reinforcement Learning [VÜ] (HWS 2025) Exercises
 
 Please refer the individual directories for the exercises. All exercises except Exercise 1 are due in 2 weeks, one after another.
 
